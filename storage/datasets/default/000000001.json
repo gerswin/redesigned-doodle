@@ -1,0 +1,13 @@
+{
+  "source_url": "https://www.bcv.org.ve/estadisticas/tipo-cambio-de-referencia-smc",
+  "ssl_mode": "insecure_fallback",
+  "fecha_valor_text": "Lunes, 29 Diciembre 2025",
+  "fecha_valor_iso": "2025-12-29T00:00:00-04:00",
+  "rates": {
+    "USD": "294,96990000",
+    "EUR": "347,77836119",
+    "CNY": "42,10246931",
+    "TRY": "6,87259929",
+    "RUB": "3,80409981"
+  }
+}
